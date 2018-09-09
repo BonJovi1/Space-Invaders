@@ -10,7 +10,7 @@ You are aboard the Millennium Falcon, with Han Solo, Princess Leia and Luke Skyw
 - Press 'D' to move right, 'A' to move left. 
 - Press 'Spacebar' to fire a lightsaber, the weapon of the Jedi, which moves every towards the enemy every second 
 - Click 'S' to fire another lightsaber, which moves at double the speed of the first one! If this collides with the enemy, it will exist on the board for another 5 seconds.
-- The enemy will spawn every 10 seconds, and disappear after 8 seconds. 
+- The enemy will spawn every 10 seconds, and disappear after 8 seconds!
 
 Hope you enjoy playing this game, as much as I enjoyed making it :grin:
 
